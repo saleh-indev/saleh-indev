@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saleh-indev (Saleh Mahamat Issaka)
-- 👀 I’m interested in  l'Informatique de façon generale, mon champs  de compétences comprend :
-- le langage Java, C++, C...
+- 👋Salut, Je suis @saleh-indev (Saleh Mahamat Issaka)
+- 👀 Je m'intéresse l'Informatique de façon generale, mon champs  de compétences comprend :
+- le Développement en langage Java, C++, C...
 - le développement Web (HTML5, CSS3, JavaScript, Php...),
 - le développement d'application mobile Android (Java, XML),
 - la modélisation orientée objet (UML),
@@ -10,10 +10,10 @@
 - la sécurité informatique
 - et bien d'autres technologies informatiques (Matlab, R, Java Swing...).
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :  
+- 🌱 Actuellement je suis étudiant en Master 1 Informatique,  Parcours : Ingénierie du Logiciel et Traitement de l'Information  ...
+- 💞️ Je cherche à collaborer sur des projets informatiques 
+- 📫 Comment me joindre :
    - Discord:  salehshoptech#2888
    - Mail :  salehindev@gmail.com
-   - Linkedin :  linkedin.com/in/mahamat-issaka-sale-65a919217
+   - Linkedin :  linkedin.com/in/salehindev
    
